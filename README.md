@@ -12,6 +12,10 @@ or
   },`
 
 ### Test: 
+`npm install "../package"`
+
+or 
+
 `"dependencies": {
     "svg_icons": "file:../package"
   },`
