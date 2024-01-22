@@ -24,5 +24,7 @@ or
 
 `import SVGIcon from 'svg_icons'`
 
-
+---------------------------------------------------
 [First create empty git repository and then add that xxxxxx.git at npm init]
+
+https://youtu.be/J4b_T-qH3BY
