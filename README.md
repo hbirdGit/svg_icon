@@ -1,6 +1,8 @@
 # svg_icon
 
-## production:  
+## Add to dependencies
+
+### production:  
 `npm install git+https://github.com/hbirdGit/svg_icon.git`
 
 or
@@ -9,7 +11,11 @@ or
     "svg_icons": "github:hbirdGit/svg_icon"
   },`
 
-## Test: 
+### Test: 
 `"dependencies": {
     "svg_icons": "file:../package"
   },`
+
+## Importing
+
+`import SVGIcon from 'svg_icons'`
