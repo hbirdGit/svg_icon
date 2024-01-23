@@ -22,7 +22,7 @@ or
 
 ## Importing
 
-~~`import SVGIcon from 'svg_icons'`
+<strike>`import SVGIcon from 'svg_icons'`</strike>
 
 `import { SVGIcon2 } from 'svg_icons'`
 
