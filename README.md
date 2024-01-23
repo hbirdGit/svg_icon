@@ -22,7 +22,9 @@ or
 
 ## Importing
 
-`import SVGIcon from 'svg_icons'`
+~~`import SVGIcon from 'svg_icons'`
+
+`import { SVGIcon2 } from 'svg_icons'`
 
 ---------------------------------------------------
 [First create empty git repository and then add that xxxxxx.git at npm init]
